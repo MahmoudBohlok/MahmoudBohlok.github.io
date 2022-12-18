@@ -1,0 +1,23 @@
+{
+    "name": "Bazaar Express",
+    "short_name": "Bazaar Express",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1e06b0",
+    "theme_color": "#58baff",
+    "description": "Bazaars at your home!.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
